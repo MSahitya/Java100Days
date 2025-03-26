@@ -1,0 +1,21 @@
+1. What is the difference between Serializable and Externalizable? When might you use Externalizable?
+Serializable:
+  Default serialization by JVM
+  Easy: just implement the interface, limited control.
+  can be less efficient due to reflection.
+  Requires No-arg constructor for deserialization
+
+ Externalizable:
+    Custom Serialization by the programmer.
+    Full control over what is serialized and how
+    more complex: implement interface and provide writeExternal() and readExternal() methods.
+    can be more efficient if implment carefully , as you only serialize what is necessary
+    Requires No-arg constructor for deserialization
+
+2. why Serializable can be less efficient than Externalizable due to reflection?
+   When we use serializable , the JVM uses reflection to determine which fields of the object need to be serialized.
+   Reflection adds overhead because it involves dynamic lookups and more complex JVM operations.
+   Externalizable avoids this overhead by giving you explicit control over the serialization process.
+   You directly specify what data is written and read, eliminating the need for reflection.
+   When performance is critical, especially when dealing with large objects or high-volume serialization,
+   Externalizable can provide a significant performance advantage.
