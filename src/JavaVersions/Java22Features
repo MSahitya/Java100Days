@@ -1,0 +1,12 @@
+Java 22 introduced several exciting features and enhancements. Here's a summary:
+
+1. **Unnamed Variables and Patterns**: Simplified code by allowing unused variables or patterns to be replaced with an underscore (`_`).
+2. **Launch Multi-File Source-Code Programs**: Enabled running multiple `.java` files without prior compilation.
+3. **Statements Before `super()` (Preview)**: Allowed certain statements in constructors before calling `super()` or `this()`.
+4. **Stream Gatherers (Preview)**: Introduced intermediate stream operations for better data processing.
+5. **Foreign Function & Memory API**: Finalized after multiple preview rounds, improving native code and memory interaction.
+6. **Scoped Values (Second Preview)**: Continued development of safer alternatives to thread-local variables.
+7. **String Templates (Second Preview)**: Enhanced dynamic string construction.
+8. **Vector API (Seventh Incubator)**: Further refined for high-performance vector computations.
+9. **Deprecations and Removals**: Removed outdated features like `Thread.countStackFrames` and the old core reflection implementation.
+

@@ -1,0 +1,11 @@
+Java 23 introduced several exciting features and enhancements. Here's a summary:
+
+1. **Markdown Documentation Comments**: Allowed JavaDoc comments to be written in Markdown for better readability and usability.
+2. **Primitive Types in Patterns (Preview)**: Enabled matching variables against primitive types in `instanceof` and `switch`.
+3. **Module Import Declarations (Preview)**: Simplified importing entire modules.
+4. **Stream Gatherers (Second Preview)**: Enhanced intermediate stream operations for better data processing.
+5. **Scoped Values (Third Preview)**: Continued development of safer alternatives to thread-local variables.
+6. **Flexible Constructor Bodies (Second Preview)**: Allowed initializing fields in constructors before calling `super()`.
+7. **Vector API (Eighth Incubator)**: Further refined for high-performance vector computations.
+8. **Generational ZGC**: Made generational mode the default for the Z Garbage Collector.
+9. **Deprecations and Removals**: Deprecated memory-access methods in `sun.misc.Unsafe` and removed outdated thread-related methods.

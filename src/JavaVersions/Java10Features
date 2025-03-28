@@ -1,0 +1,10 @@
+Java 10 introduced several features aimed at improving developer productivity and performance. Here's a summary:
+
+1. **Local Variable Type Inference**: Introduced the `var` keyword for local variables, allowing type inference and reducing boilerplate code.
+2. **Time-Based Release Versioning**: Adopted a new versioning scheme for Java releases based on a time-based cycle.
+3. **Garbage-Collector Interface**: Refactored the JVM to provide a clean interface for garbage collectors, improving modularity.
+4. **Parallel Full GC for G1**: Enhanced the G1 garbage collector to perform full garbage collection in parallel, boosting performance.
+5. **Heap Allocation on Alternative Memory Devices**: Enabled heap allocation on non-volatile memory devices for better memory management.
+6. **Application Class-Data Sharing**: Improved startup performance by sharing class data across applications.
+7. **Root Certificates**: Added default root certificates to the JDK for better security.
+8. **Experimental Java-Based JIT Compiler**: Introduced Graal as an experimental JIT compiler for better optimization.

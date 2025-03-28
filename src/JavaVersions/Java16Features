@@ -1,0 +1,12 @@
+Java 16 introduced several noteworthy features and improvements. Here's a summary:
+
+1. **Records (Standard)**: Made records a standard feature for defining immutable data classes with minimal boilerplate.
+2. **Pattern Matching for `instanceof` (Standard)**: Simplified type checking and casting in one step.
+3. **Sealed Classes (Second Preview)**: Enhanced control over inheritance by restricting which classes can extend or implement a class/interface.
+4. **Foreign Linker API (Incubator)**: Improved interaction with native libraries.
+5. **Vector API (Incubator)**: Introduced a new API for vector computations, enhancing performance for data-intensive operations.
+6. **JEP 387**: Removed the Solaris and SPARC ports from the JDK.
+7. **ZGC Enhancements**: Improved the scalability and usability of the Z Garbage Collector.
+8. **UNIX-Domain Socket Channels**: Added support for UNIX-domain socket channels and server socket channels.
+9. **Migration to GitHub**: Transitioned the OpenJDK source code repository to GitHub.
+10. **Other Minor API Updates**: Enhanced Stream, Socket, and other APIs.

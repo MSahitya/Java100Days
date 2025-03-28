@@ -1,0 +1,10 @@
+Java 19 introduced several exciting features and enhancements. Here's a summary:
+
+1. **Virtual Threads (Preview)**: Lightweight threads to simplify high-throughput concurrent programming.
+2. **Structured Concurrency (Incubator)**: Simplifies multithreaded programming by treating tasks as a single unit of work.
+3. **Pattern Matching for `switch` (Third Preview)**: Further refined pattern matching for `switch` statements.
+4. **Record Patterns (Preview)**: Enabled deconstruction of record values for more expressive data processing.
+5. **Foreign Function & Memory API (Preview)**: Improved interaction with native code and memory.
+6. **Vector API (Fourth Incubator)**: Enhanced performance for vector computations.
+7. **Linux/RISC-V Port**: Added support for the RISC-V architecture on Linux.
+

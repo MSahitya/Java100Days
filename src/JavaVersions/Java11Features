@@ -1,0 +1,10 @@
+Java 11 introduced several impactful features, including:
+
+1. **New HTTP Client**: A modern API for HTTP/2 and WebSocket communication.
+2. **String Enhancements**: Added methods like `isBlank()`, `lines()`, and `strip()`.
+3. **Local-Variable Syntax for Lambda Parameters**: Allowed `var` in lambda expressions.
+4. **Epsilon Garbage Collector**: A "no-op" garbage collector for testing purposes.
+5. **Java Flight Recorder**: A tool for profiling and diagnostics.
+6. **Deprecations and Removals**: Removed Java EE and CORBA modules.
+7. **Running Java Files Directly**: Simplified execution of `.java` files without compilation.
+

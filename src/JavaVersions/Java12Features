@@ -1,0 +1,8 @@
+Java 12 introduced several enhancements and features to improve developer experience and performance. Here's a summary:
+
+1. **Switch Expressions (Preview)**: Simplified switch statements with concise syntax and better readability.
+2. **File Mismatch Method**: Added `Files.mismatch()` to compare two files and return the position of the first mismatch.
+3. **Compact Number Formatting**: Enhanced number formatting for compact representations (e.g., "1K" for 1000).
+4. **Default CDS Archives**: Improved startup performance by using default class data sharing (CDS) archives.
+5. **Shenandoah Garbage Collector**: Introduced a low-pause garbage collector for better application responsiveness.
+

@@ -1,0 +1,11 @@
+Java 18 introduced several features and enhancements to improve developer experience and platform capabilities. Here's a summary:
+
+1. **UTF-8 as Default Charset**: Ensured consistent text encoding across platforms by setting UTF-8 as the default charset.
+2. **Simple Web Server**: Added a lightweight web server for prototyping and testing applications.
+3. **Code Snippets in API Documentation**: Enhanced Java API documentation with practical code examples.
+4. **Internet-Address Resolution SPI**: Improved flexibility in resolving internet addresses.
+5. **Pattern Matching for `switch` (Second Preview)**: Continued refining pattern matching for `switch` statements.
+6. **Vector API (Third Incubator)**: Enhanced performance for vector computations.
+7. **Foreign Function & Memory API (Second Incubator)**: Improved interaction with native memory and functions.
+8. **Deprecations**: Deprecated finalization for removal and marked `Thread.stop` for terminal deprecation.
+

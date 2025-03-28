@@ -1,0 +1,10 @@
+Java 17, a Long-Term Support (LTS) release, introduced several key features and enhancements. Here's a summary:
+
+1. **Sealed Classes**: Allowed developers to control which classes can extend or implement a class or interface.
+2. **Pattern Matching for `switch` (Preview)**: Simplified complex `switch` statements with pattern matching.
+3. **Enhanced Pseudo-Random Number Generators**: Improved support for random number generation with new interfaces and algorithms.
+4. **Restore Always-Strict Floating-Point Semantics**: Ensured consistent floating-point calculations across platforms.
+5. **Deprecation of the Applet API**: Marked the Applet API for removal, reflecting its obsolescence.
+6. **macOS/AArch64 Port**: Added support for macOS on Apple Silicon (AArch64 architecture).
+7. **New macOS Rendering Pipeline**: Replaced the deprecated OpenGL API with the Apple Metal API for better performance.
+

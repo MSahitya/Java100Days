@@ -1,0 +1,11 @@
+Java 14 introduced several exciting features and improvements. Here's a summary:
+
+1. **Switch Expressions (Standard)**: Made switch expressions a standard feature, simplifying code and improving readability.
+2. **Pattern Matching for `instanceof` (Preview)**: Reduced boilerplate code by allowing type checks and casts in a single step.
+3. **Helpful NullPointerExceptions**: Enhanced error messages to pinpoint the exact variable causing a `NullPointerException`.
+4. **Records (Preview)**: Introduced a new way to define immutable data classes with minimal boilerplate.
+5. **Text Blocks (Second Preview)**: Continued refining multiline string literals for better readability and usability.
+6. **Packaging Tool (Incubator)**: Provided a tool to package Java applications into native executables.
+7. **JFR Event Streaming**: Enabled continuous monitoring and diagnostics with Java Flight Recorder.
+8. **ZGC on macOS and Windows**: Extended the low-latency Z Garbage Collector to macOS and Windows platforms.
+

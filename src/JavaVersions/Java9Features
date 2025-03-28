@@ -1,0 +1,10 @@
+Java 9 introduced several significant features that enhanced the language and platform. Here’s a summary:
+
+1. **Java Platform Module System (JPMS)**: Also known as Project Jigsaw, it modularized the JDK, improving scalability and performance.
+2. **JShell (REPL)**: A Read-Eval-Print Loop tool for quickly testing and prototyping Java code.
+3. **Private Methods in Interfaces**: Allowed interfaces to have private helper methods.
+4. **Factory Methods for Collections**: Simplified the creation of immutable collections like `List.of()`, `Set.of()`, and `Map.of()`.
+5. **Stream API Enhancements**: Added methods like `takeWhile()`, `dropWhile()`, and `iterate()` for more functional programming capabilities.
+6. **HTTP/2 Client**: Introduced a new HTTP client for handling HTTP/2 and WebSocket communication.
+7. **Process API Improvements**: Enhanced APIs for managing and controlling operating system processes.
+8. **Compact Strings**: Optimized memory usage for `String` objects by using a more efficient internal representation.

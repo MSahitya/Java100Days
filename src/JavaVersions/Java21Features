@@ -1,0 +1,12 @@
+Java 21, released as a Long-Term Support (LTS) version, introduced several impactful features. Here's a summary:
+
+1. **Virtual Threads**: Finalized lightweight threads for high-throughput concurrent programming.
+2. **Sequenced Collections**: Added collections with direct access to first and last elements.
+3. **Record Patterns**: Standardized destructuring of record values for concise data processing.
+4. **Pattern Matching for `switch`**: Finalized pattern matching for more expressive `switch` statements.
+5. **String Templates (Preview)**: Simplified dynamic string construction.
+6. **Foreign Function & Memory API**: Enhanced interaction with native code and memory.
+7. **Vector API**: Continued improvements for vector computations.
+8. **Scoped Values (Preview)**: Provided safer alternatives to thread-local variables.
+9. **Unnamed Classes and Instance Main Methods (Preview)**: Simplified prototyping and testing.
+10. **Generational ZGC**: Improved garbage collection performance.

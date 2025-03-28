@@ -1,0 +1,12 @@
+Java 15 introduced several notable features and enhancements. Here's a summary:
+
+1. **Sealed Classes (Preview)**: Allowed developers to restrict which classes can extend or implement a given class or interface.
+2. **Pattern Matching for `instanceof` (Second Preview)**: Simplified type checks and casts in a single step.
+3. **Records (Second Preview)**: Continued refining immutable data classes with minimal boilerplate.
+4. **Text Blocks (Standard)**: Made multiline string literals a standard feature.
+5. **Hidden Classes**: Introduced classes that are not discoverable by regular class loaders, useful for frameworks.
+6. **Removal of Nashorn JavaScript Engine**: Deprecated and removed the Nashorn engine from the JDK.
+7. **Reimplementation of DatagramSocket API**: Modernized the implementation for better performance and maintainability.
+8. **Shenandoah Garbage Collector**: Added support for low-pause-time garbage collection.
+9. **Foreign-Memory Access API (Second Incubator)**: Improved handling of memory outside the Java heap.
+

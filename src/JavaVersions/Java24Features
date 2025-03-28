@@ -1,0 +1,11 @@
+Java 24 introduced several exciting features and enhancements. Here's a summary:
+
+1. **Primitive Types in Patterns (Second Preview)**: Extended pattern matching to support primitive types in all contexts, including `instanceof` and `switch`.
+2. **Flexible Constructor Bodies (Third Preview)**: Allowed statements in constructors before calling `super()` or `this()`, improving reliability.
+3. **Stream Gatherers (Preview)**: Introduced intermediate operations for streams to enhance data processing.
+4. **Scoped Values (Second Preview)**: Continued development of safer alternatives to thread-local variables.
+5. **Generational Shenandoah Garbage Collector**: Improved garbage collection performance with generational capabilities.
+6. **Quantum-Resistant Cryptography**: Added algorithms to enhance security against quantum computing threats.
+7. **Vector API (Eighth Incubator)**: Further refined for high-performance vector computations.
+8. **Deprecations and Removals**: Deprecated 32-bit x86 support and issued warnings for outdated memory-access methods.
+

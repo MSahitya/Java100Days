@@ -1,0 +1,7 @@
+Java 13 introduced several features and enhancements aimed at improving developer experience and application performance. Here's a brief summary:
+
+1. **Switch Expressions (Preview Update)**: Enhanced further with new refinements to simplify coding and improve readability.
+2. **Text Blocks (Preview)**: Introduced multiline string literals, making it easier to work with strings spanning multiple lines.
+3. **Reimplementation of the Legacy Socket API**: Modernized the underlying implementation for better maintainability and performance.
+4. **Dynamic CDS Archives**: Allowed application class-data sharing (CDS) archives to be updated at runtime, improving startup performance.
+
